@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 25
+    },
+    {
+      "name": "Paula",
+      "age": "34",
+      "createdAt": 1718115469736,
+      "id": 3
+    },
+    {
+      "name": "Caro",
+      "age": "34",
+      "createdAt": 1718115952674,
+      "id": 4
+    },
+    {
+      "name": "Nat",
+      "age": "32",
+      "createdAt": 1718121738788,
+      "id": 5
+    },
+    {
+      "name": "Kat",
+      "age": "32",
+      "createdAt": 1718121896193,
+      "id": 6
+    },
+    {
+      "name": "Gohan",
+      "age": "32",
+      "createdAt": 1718122062284,
+      "id": 7
+    },
+    {
+      "name": "Goku",
+      "age": "48",
+      "createdAt": 1718122245542,
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "author": "Alice"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JSON Server",
+      "author": "Bob"
+    }
+  ]
+}
