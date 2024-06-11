@@ -15,7 +15,7 @@ server.use(jsonServer.bodyParser);
 server.use(agregaFecha);
 
 // Configurar rutas personalizadas
-const routes = require('../routes.json');
+const routes = require('./routes.json');
 const rewriter = jsonServer.rewriter(routes);
 server.use(rewriter);
 
